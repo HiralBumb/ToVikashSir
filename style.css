@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico); 
+
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+
+body{
+  text-align:center;
+  background-color:black;
+}
+
+img{
+    width:40%;
+    }
+
+#element1 {
+color: #ff006e;
+text-align: center;
+text-decoration: underline;
+font-family: 'Pacifico';}
+
+#element2 {color: green;
+font-family: 'Chewy';}
+
+#element3 {color: #E36646;
+  font-family: 'Chewy';}
+
+#element6 {color: #4A61F2;
+  font-family: 'Chewy';}
+
+#element7 {color: #C84CED;
+  font-family: 'Chewy';}
+
+#element8 {color: cyan;
+  font-family: 'Chewy';}
+
+#element9 {color: yellow;
+  font-family: 'Chewy';}
